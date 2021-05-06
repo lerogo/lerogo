@@ -1,16 +1,15 @@
-### Hi there 👋
+<h1 align="center">Hi 👋, I'm lerogo</h1>
 
-<!--
-**lerogo/lerogo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 📝 I regularly write articles on [https://blog.lerogo.com/](https://blog.lerogo.com/)
 
-Here are some ideas to get you started:
+- 📫 How to reach me **lerogo@163.com**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 📄 Know about my experiences [https://resume.lerogo.com/](https://resume.lerogo.com/)
+
+
+<p>
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=lerogo&show_icons=true&locale=en" alt="lerogo" align="left" />
+</p>
+<p>
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lerogo&layout=compact&langs_count=20&locale=en" alt="lerogo" align="right"/>
+</p>
