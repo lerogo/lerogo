@@ -15,4 +15,4 @@
 | 🗂 Some projects may be completely open source in the future  | 📎 doc or demo url  |
 | ------------------------ | ---------------------------------- |
 | Project about video/image face processing (Software Copyright)  | [skynet人脸处理系统](https://lab.lerogo.com/skynet/) |
-| Project about WeChat Mini Program (周三课表,Now Serving Over 12,400 Students) | <img align="center" height="100"  alt="乐学学导微信小程序" src="./docs/_media/wxxcx_zskb_logo.jpg"> |
+| Project about WeChat Mini Program (周三课表,Now serving more than 12,400 undergraduate students) | <img align="center" height="100"  alt="乐学学导微信小程序" src="./docs/_media/wxxcx_zskb_logo.jpg"> |
