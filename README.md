@@ -2,7 +2,7 @@
 
 - 🌏 I'm working on a new project: **alsoai.com**, in my spare time, welcome to join me!
 
-- 📫 How to reach me:  **lerogo@163.com** or **lerogo@buaa.eud.cn**
+- 📫 How to reach me:  **lerogo@163.com** or **lerogo@buaa.edu.cn**
 
 <a href="https://github.com/lerogo">
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=lerogo&show_icons=true&locale=en" alt="lerogo" height="180" style="margin: 5px; margin-bottom: 20px;" /></a>
