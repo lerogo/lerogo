@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm lerogo</h1>
+<h1 align="center">Hi 👋, I'm Hailang Huang</h1>
 
 - 📫 How to reach me:  **lerogohl@gmail.com**
 
