@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Hailang</h1>
 
 - 📫 How to reach me:  **lerogohl@gmail.com**
-- 🏠 Homepage: [cv.lerogo.com](https://cv.lerogo.com/en.html)
+- 🏠 Homepage: [cv.lerogo.com](https://cv.lerogo.com)
 
 <a href="https://github.com/lerogo">
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=lerogo&show_icons=true&locale=en" alt="lerogo" height="180" style="margin: 5px; margin-bottom: 20px;" /></a>
